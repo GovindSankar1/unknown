@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background-color: #fff;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.mon{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color:  #11999E;
+}
+p{
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color:#e0ebe8;
+    position: relative;
+    padding-top:100px;
+}
+.img-1{
+    width: 25%;
+    float: center;
+    margin-right: 30px;
+}
+.computer-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+a{
+    color: #11999E;
+}
+a:hover{
+    color: gold;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+}
+.bottom-cloud{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+.img-2{
+    width: 25%;
+    float: right;
+}
+.img-3{
+    width: 10%;
+    text-align: center;
+}
+.bottom-container{
+    padding: 70px;
+    background-color: #66BFBF;
+}
+.footer-link{
+    margin: 1rem;
+    text-decoration: none;
+}
+#a-1{
+    text-decoration: none;
+}
+hr{
+    width: 500px;
+}
+.fotter-link{
+    color: #e0ebe8;
+}
+.color-p-foot{
+    color: #EAF6F6;
+}
+/*importing button from w3schools*/
+.BUTTON {
+    background-color: #11999E; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+ /*finished*/
